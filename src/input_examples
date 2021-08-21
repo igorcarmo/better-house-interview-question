@@ -1,0 +1,32 @@
+[
+    {
+        "gym": False,
+        "school": False,
+        "store": True,
+    },
+    {
+        "gym": False,
+        "school": True,
+        "store": False,
+    },
+    {
+        "gym": False,
+        "school": True,
+        "store": False,
+    },
+    {
+        "gym": True,
+        "school": False,
+        "store": True,
+    },
+    {
+        "gym": False,
+        "school": False,
+        "store": False,
+    },
+    {
+        "gym": True,
+        "school": False,
+        "store": False,
+    }
+]
